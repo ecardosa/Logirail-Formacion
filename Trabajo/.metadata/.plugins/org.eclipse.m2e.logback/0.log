@@ -769,3 +769,12 @@
 2024-05-03 09:33:09,555 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
 2024-05-03 09:48:38,070 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
 2024-05-03 09:48:38,075 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 10:01:38,876 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-03 10:01:38,882 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 10:34:10,479 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-03 10:34:10,485 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 10:36:59,088 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-03 10:36:59,093 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 10:50:25,941 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-03 10:50:25,952 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 11:35:55,468 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
