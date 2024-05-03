@@ -767,3 +767,5 @@
 2024-05-03 09:29:06,421 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
 2024-05-03 09:33:09,549 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
 2024-05-03 09:33:09,555 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-03 09:48:38,070 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-03 09:48:38,075 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
