@@ -2,6 +2,7 @@ package com.gildedrose;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -80,7 +81,7 @@ class GildedRoseTest {
     }
     
     @ParameterizedTest (name = "{4} SellIn: {0} Quality: {1} -> Sellin: {2} Quality: {3}")
-    @CvsSource(value = {"2, 1, 1, 0, Item1", "-2, 3, -3, 1, Item4"})
+    @CsvSource(value = {"2, 1, 1, 0, Item1", "-2, 3, -3, 1, Item4"})
     @DisplayName("Casos de prueba de los items normales")
     void ItemsNormales(int sellIn, int quality, int sellInResult, int qualityResult, String name)
     {
@@ -103,60 +104,51 @@ class GildedRoseTest {
     
    @Test  /* Si quality = 0 */
    void surfuras() {
-	   Item[] items = new Item[] { new Item("Sulfuras", 22, 80) };
+	   Item[] items = new Item[] { new Item("Sulfuras, Hand of Ragnaros", 22, 80) };
 	   GildedRose app = new GildedRose(items);
 	   app.updateQuality();
-	   assertEquals("Sulfuras", app.items[0].name, "name");
+	   assertEquals("Sulfuras, Hand of Ragnaros", app.items[0].name, "name");
 	   assertEquals(22, app.items[0].sellIn, "SellIn");
 	   assertEquals(80, app.items[0].quality, "Quality");   
    }
    
-   @Test  /* Si quality != 0 */
-   void surfuras2() {
-	   Item[] items = new Item[] { new Item("Sulfuras2", 1, 1) };
-	   GildedRose app = new GildedRose(items);
-	   app.updateQuality();
-	   assertEquals("Sulfuras2", app.items[0].name, "name");
-	   assertEquals(1, app.items[0].sellIn, "SellIn");
-	   assertEquals(80, app.items[0].quality, "Quality");   
-   }
-   
+
    @Test  /* Si es mayor que la fecha recomendada y la calidad final es menor que 50*/
    void brie() {
-	   Item[] items = new Item[] { new Item("brie", 2, 49) };
+	   Item[] items = new Item[] { new Item("Aged Brie", 2, 49) };
 	   GildedRose app = new GildedRose(items);
 	   app.updateQuality();
-	   assertEquals("brie", app.items[0].name, "name");
+	   assertEquals("Aged Brie", app.items[0].name, "name");
 	   assertEquals(1, app.items[0].sellIn, "SellIn");
 	   assertEquals(50, app.items[0].quality, "Quality");   
    }
    
    @Test  /* Si es mayor que la fecha recomendada y la calidad final no es menor que 50*/
    void brie2() {
-	   Item[] items = new Item[] { new Item("brie2", 2, 2) };
+	   Item[] items = new Item[] { new Item("Aged Brie", 2, 2) };
 	   GildedRose app = new GildedRose(items);
 	   app.updateQuality();
-	   assertEquals("brie2", app.items[0].name, "name");
+	   assertEquals("Aged Brie", app.items[0].name, "name");
 	   assertEquals(1, app.items[0].sellIn, "SellIn");
 	   assertEquals(3, app.items[0].quality, "Quality");   
    }
    
    @Test  /* Si no es mayor que la fecha recomendada y la calidad final es menor que 50*/
    void brie3() {
-	   Item[] items = new Item[] { new Item("brie3", -1, 49) };
+	   Item[] items = new Item[] { new Item("Aged Brie", -1, 49) };
 	   GildedRose app = new GildedRose(items);
 	   app.updateQuality();
-	   assertEquals("brie3", app.items[0].name, "name");
+	   assertEquals("Aged Brie", app.items[0].name, "name");
 	   assertEquals(-2, app.items[0].sellIn, "SellIn");
 	   assertEquals(50, app.items[0].quality, "Quality");   
    }
    
    @Test  /* Si no es mayor que la fecha recomendada y la calidad final no es menor que 50*/
    void brie4() {
-	   Item[] items = new Item[] { new Item("brie4", 0, 5) };
+	   Item[] items = new Item[] { new Item("Aged Brie", 0, 5) };
 	   GildedRose app = new GildedRose(items);
 	   app.updateQuality();
-	   assertEquals("brie4", app.items[0].name, "name");
+	   assertEquals("Aged Brie", app.items[0].name, "name");
 	   assertEquals(-1, app.items[0].sellIn, "SellIn");
 	   assertEquals(7, app.items[0].quality, "Quality");   
    }
