@@ -20,7 +20,7 @@ class GildedRoseTest {
         assertEquals("foo", app.items[0].name);
     }
     
-    @Test /* Mayor a la fecha recomendada y calidad menor que 0 */
+    @Test @DisplayName("Mayor a la fecha recomendada y calidad menor que 0")
     void item1() {
  	   Item[] items = new Item[] { new Item("Item1", 2, 1) };
  	   GildedRose app = new GildedRose(items);
@@ -35,7 +35,7 @@ class GildedRoseTest {
  	  );
     }
     
-    @Test /* Mayor a la fecha recomendada y calidad mayor que 0 */
+    @Test @DisplayName("Mayor a la fecha recomendada y calidad mayor que 0")
     void item2() {
  	   Item[] items = new Item[] { new Item("Item2", 3, 3) };
  	   GildedRose app = new GildedRose(items);
@@ -50,7 +50,7 @@ class GildedRoseTest {
  	  );
     }
     
-    @Test /* Menor a la fecha recomendada y calidad menor que 0 */
+    @Test @DisplayName("Menor a la fecha recomendada y calidad menor que 0")
     void item3() {
  	   Item[] items = new Item[] { new Item("Item3", -1, 1) };
  	   GildedRose app = new GildedRose(items);
@@ -65,7 +65,7 @@ class GildedRoseTest {
  	  );
     }
     
-    @Test /* Menor a la fecha recomendada y calidad mayor que 0 */
+    @Test @DisplayName("Menor a la fecha recomendada y calidad mayor que 0")
     void item4() {
  	   Item[] items = new Item[] { new Item("Item4", -2, 3) };
  	   GildedRose app = new GildedRose(items);
@@ -102,7 +102,7 @@ class GildedRoseTest {
     
     
     
-   @Test  /* Si quality = 0 */
+   @Test  @DisplayName("Si la calidad es igual a 0")
    void surfuras() {
 	   Item[] items = new Item[] { new Item("Sulfuras, Hand of Ragnaros", 22, 80) };
 	   GildedRose app = new GildedRose(items);
@@ -113,7 +113,7 @@ class GildedRoseTest {
    }
    
 
-   @Test  /* Si es mayor que la fecha recomendada y la calidad final es menor que 50*/
+   @Test  @DisplayName("Si es mayor que la fecha recomendada y la calidad final es menor que 50")
    void brie() {
 	   Item[] items = new Item[] { new Item("Aged Brie", 2, 49) };
 	   GildedRose app = new GildedRose(items);
@@ -123,7 +123,7 @@ class GildedRoseTest {
 	   assertEquals(50, app.items[0].quality, "Quality");   
    }
    
-   @Test  /* Si es mayor que la fecha recomendada y la calidad final no es menor que 50*/
+   @Test @DisplayName("Si es mayor que la fecha recomendada y la calidad final no es menor que 50")
    void brie2() {
 	   Item[] items = new Item[] { new Item("Aged Brie", 2, 2) };
 	   GildedRose app = new GildedRose(items);
@@ -133,7 +133,7 @@ class GildedRoseTest {
 	   assertEquals(3, app.items[0].quality, "Quality");   
    }
    
-   @Test  /* Si no es mayor que la fecha recomendada y la calidad final es menor que 50*/
+   @Test  @DisplayName("Si no es mayor que la fecha recomendada y la calidad final es mayor que 50")
    void brie3() {
 	   Item[] items = new Item[] { new Item("Aged Brie", -1, 49) };
 	   GildedRose app = new GildedRose(items);
@@ -143,7 +143,7 @@ class GildedRoseTest {
 	   assertEquals(50, app.items[0].quality, "Quality");   
    }
    
-   @Test  /* Si no es mayor que la fecha recomendada y la calidad final no es menor que 50*/
+   @Test  @DisplayName("Si no es mayor que la fecha recomendada y la calidad final es menor que 50")
    void brie4() {
 	   Item[] items = new Item[] { new Item("Aged Brie", 0, 5) };
 	   GildedRose app = new GildedRose(items);
