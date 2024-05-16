@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ISPiwAuUEe--ae_qoN_RPg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ISPiwQuUEe--ae_qoN_RPg" bindingContexts="_ISRYywuUEe--ae_qoN_RPg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CvsSource.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/CvsSource.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/CvsSource.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PruebasCalculadoraTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/PruebasCalculadoraTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/PruebasCalculadoraTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRose.java&quot; tooltip=&quot;kata/src/main/java/com/gildedrose/GildedRose.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/main/java/com/gildedrose/GildedRose.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;devops/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CalculadoraTest.java&quot; tooltip=&quot;devops/src/test/java/com/gildedrose/CalculadoraTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/test/java/com/gildedrose/CalculadoraTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Calculadora.java&quot; tooltip=&quot;devops/src/main/java/com/gildedrose/Calculadora.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/main/java/com/gildedrose/Calculadora.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Item.java&quot; tooltip=&quot;kata/src/main/java/com/gildedrose/Item.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/main/java/com/gildedrose/Item.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;kata/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;sonar-project.properties&quot; tooltip=&quot;devops/sonar-project.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/sonar-project.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TexttestFixture.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/TexttestFixture.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/TexttestFixture.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ModuleInfoEditor&quot; name=&quot;module-info.java&quot; tooltip=&quot;devops/src/main/java/com/gildedrose/src/module-info.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/main/java/com/gildedrose/src/module-info.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; tooltip=&quot;devops/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CvsSource.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/CvsSource.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/CvsSource.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PruebasCalculadoraTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/PruebasCalculadoraTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/PruebasCalculadoraTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRose.java&quot; tooltip=&quot;kata/src/main/java/com/gildedrose/GildedRose.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/main/java/com/gildedrose/GildedRose.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;devops/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CalculadoraTest.java&quot; tooltip=&quot;devops/src/test/java/com/gildedrose/CalculadoraTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/test/java/com/gildedrose/CalculadoraTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Calculadora.java&quot; tooltip=&quot;devops/src/main/java/com/gildedrose/Calculadora.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/src/main/java/com/gildedrose/Calculadora.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Item.java&quot; tooltip=&quot;kata/src/main/java/com/gildedrose/Item.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/main/java/com/gildedrose/Item.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;kata/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;sonar-project.properties&quot; tooltip=&quot;devops/sonar-project.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/devops/sonar-project.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TexttestFixture.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/TexttestFixture.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/kata/src/test/java/com/gildedrose/TexttestFixture.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ISPiwQuUEe--ae_qoN_RPg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ISPiwguUEe--ae_qoN_RPg" label="%trimmedwindow.label.eclipseSDK" x="2647" y="199" width="976" height="1028">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ISPiwQuUEe--ae_qoN_RPg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ISPiwguUEe--ae_qoN_RPg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="976" height="1028">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -10,7 +10,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1714635317953"/>
     <tags>topLevel</tags>
-    <tags>shellMaximized</tags>
+    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ISPiwguUEe--ae_qoN_RPg" selectedElement="_ISPiwwuUEe--ae_qoN_RPg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ISPiwwuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_ISPi6guUEe--ae_qoN_RPg">
         <children xsi:type="advanced:Perspective" xmi:id="_ISPixAuUEe--ae_qoN_RPg" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_ISPixQuUEe--ae_qoN_RPg" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
@@ -433,7 +433,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_ISQLLwuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.editorss" selectedElement="_ISQLMAuUEe--ae_qoN_RPg">
-      <children xsi:type="basic:PartStack" xmi:id="_ISQLMAuUEe--ae_qoN_RPg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ISQLNQuUEe--ae_qoN_RPg">
+      <children xsi:type="basic:PartStack" xmi:id="_ISQLMAuUEe--ae_qoN_RPg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_tnWa4BHdEe-i36Ud94FNOQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -445,17 +445,30 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_ISQLNQuUEe--ae_qoN_RPg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GildedRoseTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; partName=&quot;GildedRoseTest.java&quot; title=&quot;GildedRoseTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5342&quot; selectionTopPixel=&quot;1622&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; partName=&quot;GildedRoseTest.java&quot; title=&quot;GildedRoseTest.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/kata/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5342&quot; selectionTopPixel=&quot;1755&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_ISQLhQuUEe--ae_qoN_RPg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CvsSource.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CvsSource.java&quot; partName=&quot;CvsSource.java&quot; title=&quot;CvsSource.java&quot; tooltip=&quot;kata/src/test/java/com/gildedrose/CvsSource.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/kata/src/test/java/com/gildedrose/CvsSource.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;8&quot; selectionOffset=&quot;61&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_hDkKMBHdEe-i36Ud94FNOQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GildedRoseTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GildedRoseTest.java&quot; partName=&quot;GildedRoseTest.java&quot; title=&quot;GildedRoseTest.java&quot; tooltip=&quot;devops/src/test/java/com/gildedrose/GildedRoseTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/devops/src/test/java/com/gildedrose/GildedRoseTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_tnWa4BHdEe-i36Ud94FNOQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="module-info.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.ModuleInfoEditor&quot; name=&quot;module-info.java&quot; partName=&quot;module-info.java&quot; title=&quot;module-info.java&quot; tooltip=&quot;devops/src/main/java/com/gildedrose/src/module-info.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/devops/src/main/java/com/gildedrose/src/module-info.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;30&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.ModuleInfoEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -529,7 +542,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_ISQLqAuUEe--ae_qoN_RPg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
+      <toolbar xmi:id="_ISQLqAuUEe--ae_qoN_RPg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ISQw5wuUEe--ae_qoN_RPg" elementId="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Data Source Explorer" iconURI="platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.datatools.connectivity.ui.dse.views.DataSourceExplorerView"/>
@@ -656,7 +669,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_ISQxeQuUEe--ae_qoN_RPg" elementId="org.eclipse.jdt.ui.PackageExplorer"/>
+      <toolbar xmi:id="_ISQxeQuUEe--ae_qoN_RPg" elementId="org.eclipse.jdt.ui.PackageExplorer" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ISQxfwuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.texteditor.TemplatesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Templates" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/templates.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.ui"/>
@@ -731,7 +744,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQxoAuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ISQxqAuUEe--ae_qoN_RPg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ISUemAuUEe--ae_qoN_RPg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PbXkcBHdEe-i36Ud94FNOQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ISUemAuUEe--ae_qoN_RPg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQxrQuUEe--ae_qoN_RPg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -739,8 +752,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQxrwuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ISQxsQuUEe--ae_qoN_RPg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_ISUcfwuUEe--ae_qoN_RPg"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ISQxsguUEe--ae_qoN_RPg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_ISUdJQuUEe--ae_qoN_RPg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PbbO0BHdEe-i36Ud94FNOQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_ISUcfwuUEe--ae_qoN_RPg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Pbb14BHdEe-i36Ud94FNOQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_ISUdJQuUEe--ae_qoN_RPg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQxswuUEe--ae_qoN_RPg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -773,10 +786,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQyBQuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ISQyCwuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ISUeOwuUEe--ae_qoN_RPg"/>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_ISQyEAuUEe--ae_qoN_RPg" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PbdrEBHdEe-i36Ud94FNOQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ISUeOwuUEe--ae_qoN_RPg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ISQyEQuUEe--ae_qoN_RPg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2099,18 +2109,18 @@
     <tags>View</tags>
     <tags>categoryTag:XML</tags>
   </descriptors>
-  <trimContributions xmi:id="_IST1gAuUEe--ae_qoN_RPg" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
-    <children xsi:type="menu:ToolControl" xmi:id="_IST1gQuUEe--ae_qoN_RPg" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:PerspectiveSpacer</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_IST1gguUEe--ae_qoN_RPg" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
       <tags>move_after:Spacer Glue</tags>
       <tags>HIDEABLE</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_IST1gwuUEe--ae_qoN_RPg" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:SearchField</tags>
       <tags>SHOW_RESTORE_MENU</tags>

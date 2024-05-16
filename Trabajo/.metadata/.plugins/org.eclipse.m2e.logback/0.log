@@ -806,3 +806,14 @@
 2024-05-06 10:28:50,283 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
 2024-05-06 10:28:57,277 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
 2024-05-06 10:28:57,279 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-14 12:32:26,019 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-14 12:32:45,403 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-14 12:32:45,406 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\devops\src\main\resources
+2024-05-14 12:32:45,413 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-14 12:32:45,415 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\devops\src\test\resources
+2024-05-14 12:32:46,755 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\main\resources
+2024-05-14 12:32:46,765 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\kata\src\test\resources
+2024-05-14 12:35:48,896 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-14 12:35:48,900 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\devops\src\main\resources
+2024-05-14 12:35:48,904 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-14 12:35:48,906 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\L41653279A\Documents\Logirail-Formacion\Trabajo\devops\src\test\resources
